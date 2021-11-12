@@ -2,6 +2,7 @@
 #include <string>
 
 using namespace std;
+// FINISHED
 
 int solve(string word, string keyboard)
 {
