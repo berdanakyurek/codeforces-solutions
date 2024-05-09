@@ -11,9 +11,7 @@ int main()
     {
         int len;
         cin >> len;
-
         int song[len];
-
         int div = 0;
         bool inc = false;
         int incNo = 0;

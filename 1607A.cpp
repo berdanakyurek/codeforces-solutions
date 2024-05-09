@@ -21,6 +21,9 @@ int solve(string word, string keyboard)
     return time;
 }
 
+
+
+
 int main()
 {
     int t;
